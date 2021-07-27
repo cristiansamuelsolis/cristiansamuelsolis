@@ -1,9 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" style="max-width:100%;">, I'm Cristian Solís</h1>
-<h3 align="center">Java | Spring Boot | Hibernate JPA | MySQL | JavaScript | Node | Angular | Typescritp</h3>
-
+<h3 align="center">Java | Spring Boot | MySQL | JavaScript | Node | Angular | Typescript</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cristian-sol%C3%ADs-95519614b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cristian-solis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cristian-samuel-solis/" target="_blank"><img align="center" style="color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cristian-solis" height="30" width="40"/></a>
 </p>
 
 <!--
